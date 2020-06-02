@@ -1,0 +1,14 @@
+C:\Users\ynovi\OneDrive\Documents\Touro\2020_a_Spring\M368\VS\GoldbachConjecture\ConjectureConsoleApp\bin\Debug\ConjectureConsoleApp.exe.config
+C:\Users\ynovi\OneDrive\Documents\Touro\2020_a_Spring\M368\VS\GoldbachConjecture\ConjectureConsoleApp\bin\Debug\ConjectureConsoleApp.exe
+C:\Users\ynovi\OneDrive\Documents\Touro\2020_a_Spring\M368\VS\GoldbachConjecture\ConjectureConsoleApp\bin\Debug\ConjectureConsoleApp.pdb
+C:\Users\ynovi\OneDrive\Documents\Touro\2020_a_Spring\M368\VS\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\ynovi\OneDrive\Documents\Touro\2020_a_Spring\M368\VS\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ynovi\OneDrive\Documents\Touro\2020_a_Spring\M368\VS\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.exe
+C:\Users\ynovi\OneDrive\Documents\Touro\2020_a_Spring\M368\VS\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.pdb
+C:\Users\yrote\source\repos\GoldbachConjecture\ConjectureConsoleApp\bin\Debug\ConjectureConsoleApp.exe.config
+C:\Users\yrote\source\repos\GoldbachConjecture\ConjectureConsoleApp\bin\Debug\ConjectureConsoleApp.exe
+C:\Users\yrote\source\repos\GoldbachConjecture\ConjectureConsoleApp\bin\Debug\ConjectureConsoleApp.pdb
+C:\Users\yrote\source\repos\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.csprojAssemblyReference.cache
+C:\Users\yrote\source\repos\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yrote\source\repos\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.exe
+C:\Users\yrote\source\repos\GoldbachConjecture\ConjectureConsoleApp\obj\Debug\ConjectureConsoleApp.pdb
