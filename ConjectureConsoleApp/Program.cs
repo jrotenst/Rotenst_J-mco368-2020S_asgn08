@@ -12,7 +12,6 @@ namespace ConjectureConsoleApp
     class Program
     {
         private static volatile int counter = 4;
-        private static object CounterLock = new Object();
         private static int LIMIT;
         private static ConcurrentDictionary<int, Tuple<int, int>> results = new ConcurrentDictionary<int, Tuple<int, int>>();
         private static bool cancelRequested;
