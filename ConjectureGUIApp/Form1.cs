@@ -22,22 +22,20 @@ namespace ConjectureGUIApp
             cancelRequested = false;
             int limit = int.Parse(LimitTextBox.Text);
             
-            string results = await Task.Run(() =>
+            for (int i = 4; i <= limit; i++)
             {
-                string pairs = "";
-                for (int currNumber = 4; currNumber <= limit; currNumber += 2)
+                if (cancelRequested)
                 {
-                    string pair = GetPair(currNumber);
-                    pairs += pair;
-                    if (cancelRequested)
-                        break;
+                    break;
                 }
-                return pairs;
-            } );
-            ResultsTextbox.AppendText(results);
+                int temp = i;
+                string result = await Task.Run(() => GetPair(temp));
+                ResultsTextbox.AppendText(result);
+            }
             ResultsTextbox.AppendText(cancelRequested ? "Cancelled" : "Done");
         }
 
+        
         private String GetPair(int currNumber)
         {
             String result = "";
